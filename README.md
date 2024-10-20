@@ -38,8 +38,8 @@ This repository provides an implementation of **Automatic Camera Calibration** b
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/MayankD409/AutoCalib.git
+    cd AutoCalib
     ```
 
 2. **Create a Virtual Environment (Optional but Recommended)**
